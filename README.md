@@ -37,3 +37,8 @@ namun pada project ini saya hanya menerapkan Atomic Design ini pada beberapa bag
 Sebelum saya membuat website, saya terlebih dahulu mendesign halaman website menggunakan Adobe XD agar mempermudah proses development website ini.
 berikut link download [file Design Adobe XD](https://bit.ly/xd-pokemon)
 
+# Screenshot
+![Edit button](contributing/images/home.PNG)
+![Edit button](contributing/images/Detail.PNG)
+![Edit button](contributing/images/xd.PNG)
+
