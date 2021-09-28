@@ -13,7 +13,12 @@ Ini merupakan sebuah web dengan tema Pokemon, data dalam web ini diambil dari AP
 3.run the app
     
     npm start or yarn start
-    
+
+# Halaman Website
+- List Pokemon
+- Detail Pokemon ( Klik Gambar Pokemon untuk masuk )
+- NotFound
+
 # Stack yg Digunakan
 - React JS
 - React Redux
@@ -21,6 +26,7 @@ Ini merupakan sebuah web dengan tema Pokemon, data dalam web ini diambil dari AP
 - React Router Dom
 - Axios
 - Scss
+
     
 # Structure Folder
 Dalam pembuatan web ini saya menggunakan structure project Atomic Design, kenapa saya menggunakan ini karena Atomic Design sendiri pada dasarnya memisahkan component component menjadi yang terkecil, agar bisa digunakan pada component lainnya & lebih mudah saat proses maintenence...
