@@ -38,7 +38,12 @@ Sebelum saya membuat website, saya terlebih dahulu mendesign halaman website men
 berikut link download [file Design Adobe XD](https://bit.ly/xd-pokemon)
 
 # Screenshot
+
+Website
 ![Edit button](contributing/images/home.PNG)
 ![Edit button](contributing/images/Detail.PNG)
+![Edit button](contributing/images/not.PNG)
+
+Adobe XD
 ![Edit button](contributing/images/xd.PNG)
 
