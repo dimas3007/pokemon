@@ -1,0 +1,23 @@
+.notfound {
+  line-height: 0.9;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  h1 {
+    text-transform: uppercase;
+    font-size: 115px;
+    font-weight: 700;
+
+    &.bordered {
+      color: transparent;
+      -webkit-text-stroke: 2px #f9f9f9;
+    }
+  }
+
+  h4 {
+    margin-top: 25px;
+  }
+}

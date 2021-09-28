@@ -1,0 +1,34 @@
+.alert {
+  width: max-content;
+  background-color: #f9f9f9;
+  position: absolute;
+  z-index: 999;
+  top: 0;
+  right: 0;
+  padding: 1em;
+  color: #8fff8b;
+  margin: 1em;
+
+  -moz-animation: hide 0s ease-in 5s forwards;
+  -webkit-animation: hide 0s ease-in 5s forwards;
+  -o-animation: hide 0s ease-in 5s forwards;
+  animation: hide 0s ease-in 5s forwards;
+  -webkit-animation-fill-mode: forwards;
+  animation-fill-mode: forwards;
+}
+
+@keyframes hide {
+  to {
+    width: 0;
+    height: 0;
+    overflow: hidden;
+    visibility: hidden;
+  }
+}
+@-webkit-keyframes hide {
+  to {
+    width: 0;
+    height: 0;
+    visibility: hidden;
+  }
+}
