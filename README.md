@@ -31,5 +31,9 @@ Ini merupakan sebuah web dengan tema Pokemon, data dalam web ini diambil dari AP
 # Structure Folder
 Dalam pembuatan web ini saya menggunakan structure project Atomic Design, kenapa saya menggunakan ini karena Atomic Design sendiri pada dasarnya memisahkan component component menjadi yang terkecil, agar bisa digunakan pada component lainnya & lebih mudah saat proses maintenence...
 
-namun pada project ini saya hanya menerapkan Atomic Design ini pada beberapa bagian
+namun pada project ini saya hanya menerapkan Atomic Design ini pada beberapa bagian.
+
+# Others
+Sebelum saya membuat website, saya terlebih dahulu mendesign halaman website menggunakan Adobe XD agar mempermudah proses development website ini.
+berikut link download [file Design Adobe XD](https://bit.ly/xd-pokemon)
 
